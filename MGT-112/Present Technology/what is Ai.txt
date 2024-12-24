@@ -1,0 +1,3 @@
+AI, or Artificial Intelligence, is the development of computer systems that can perform tasks like learning, problem-solving, and decision-making, typically requiring human intelligence.
+
+কৃত্রিম বুদ্ধিমত্তা বা কৃত্রিম বুদ্ধিমত্তা হ'ল কম্পিউটার সিস্টেমের বিকাশ যা শেখা, সমস্যা সমাধান এবং সিদ্ধান্ত গ্রহণের মতো কাজগুলি সম্পাদন করতে পারে, সাধারণত মানুষের বুদ্ধিমত্তার প্রয়োজন হয়।

@@ -1,0 +1,4 @@
+ChatGPT is a text-based AI model created by OpenAI for generating human-like responses in natural language conversations.
+
+ChatGPT একটি পাঠ্য-ভিত্তিক এআই মডেল যা প্রাকৃতিক ভাষার কথোপকথনে মানুষের মতো প্রতিক্রিয়া তৈরি করার জন্য ওপেনএআই দ্বারা তৈরি করা হয়েছে।
+
